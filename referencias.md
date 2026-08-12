@@ -10,4 +10,4 @@
 - [Python requests.GET(): Complete Guide for HTTP GET Requests] (https://pytutorial.com/python-requestsget-complete-guide-for-http-get-requests/)
 
 ### API utilizada
-- [Spoonacular API — Search Recipes by Ingredients]
+- [Spoonacular API — Search Recipes by Ingredients] (https://spoonacular.com/food-api/docs#Search-Recipes-by-Ingredients)
