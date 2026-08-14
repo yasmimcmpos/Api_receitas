@@ -16,7 +16,6 @@ parametros = {
 
 resposta = requests.get(url, params=parametros)
 
-
 #Primeira função buscar_receitas()
 if resposta.status_code == 200:
     dados_lista = resposta.json()
